@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.list {
+  list-style: none;
+  display: flex;
+  justify-content: space-evenly;
+  gap: 20px;
+}
+
+.list a {
+  color: white;
+  text-decoration: none;
+}
+
+.logo {
+  width: auto;
+  height: 40px;
+}
+
+.navbar {
+  max-width: 100%;
+  width: auto;
+  height: 90px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px;
+  color: white;
+  background-color: black;
+}
