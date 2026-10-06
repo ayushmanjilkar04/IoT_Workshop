@@ -10,6 +10,6 @@
 
 # Task
 
-Design the various landing Pages and show on day 6 of workshop
+1. Design the various landing Pages and show on day 6 of workshop
 
-Design Cards in the reactapp
+2. Design Cards in the reactapp

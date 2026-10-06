@@ -8,8 +8,10 @@ const App = () => {
     <>
       <Navbar />
       <h1 className="text-3xl text-red-600 ml-2.5">React Application</h1>
-      <Example />
+     <div className="flex flex-row">
       <Api />
+      <Example />
+      </div> 
     </>
   );
 };
